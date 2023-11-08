@@ -10,7 +10,7 @@
     Harvest YouTube channel data using the YouTube API by providing a 'Channel ID'.
     Store channel data in MongoDB Atlas as documents.
     Convert MongoDB data into SQL records for data analysis.
-    Use 11 different methods within the "YT2SQL" class to perform various tasks.
+    Use 11 different methods to perform various tasks.
     Implement Streamlit to present code and data in a user-friendly UI.
     Execute data analysis using SQL queries and Python integration.
 
@@ -25,14 +25,14 @@
 
     Ensure the required Python modules are installed: Streamlit, Pandas, PyMongo, Psycopg2, Googleapiclient, and Isodate.
 
-### Step 2: Utilize the "YT2SQL" Class
+### Step 2: Utilize the methods
 
-    There are 11 methods within the class, each with specific functionality for data extraction and transformation. These methods cover tasks like data retrieval, data storage, and data analysis.
+    There are 11 methods, each with specific functionality for data extraction and transformation. These methods cover tasks like data retrieval, data storage, and data analysis.
 
 ### Step 3: Run the Project with Streamlit
 
-    Open the command prompt in the directory where "YtAPiproject.py" is located.
-    Execute the command: streamlit run YtAPiproject.py. This will open a web browser, such as Google Chrome, displaying the project's user interface.
+    Open the command prompt in the directory where "main.py" is located.
+    Execute the command: streamlit run main.py. This will open a web browser, such as Google Chrome, displaying the project's user interface.
 
 ### Step 4: Configure Databases
 
